@@ -29,7 +29,7 @@ The palette uses Vauxhall's signature deep indigo backgrounds with a cyan-to-pur
 
 ```lua
 {
-  "your-username/vauxhall.nvim",
+  "cisco336/vauxhall.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
